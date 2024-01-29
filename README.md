@@ -1,5 +1,5 @@
 # Projeto-Low-Code-
-Projeto usando a tecnoligia Bubble
+Projeto usando a tecnologia Bubble.
 
 ## Apresentação:
 
